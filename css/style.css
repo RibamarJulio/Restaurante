@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family= Italiana & display = swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    font-family: 'roboto', 'sans-serif';
+    font-size:20px;
+}
+.nav-item{
+    padding-left: 20px;
+    cursor: pointer;
+}
+.card{
+    margin: 0 .5em;
+    width: 200px;
+    height: 350px;
+}
+.card img{
+    height: 200px;
+}
+.col-lg:hover{
+    background-color: rgb(255, 255, 255);
+}
+.carousel-item{
+    height: 400px;
+}
+.carousel-item img{
+    height: 100%;
+    width: 100%;
+}
+.h3{
+    font-family: 'italiana', 'sans-serif';
+}
+.modal-body img{
+    height: 300px;
+}
+#rodape img{
+    width: 50px;
+    height: 30px;
+    margin: 0 .5em;
+}
